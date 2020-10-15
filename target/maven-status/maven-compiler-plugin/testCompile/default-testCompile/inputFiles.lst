@@ -1,0 +1,13 @@
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/runners/RegressionTestRunner.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/runners/SmokeTestRunner.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/runners/DataTablesTestRunner.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/runners/Runner.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/pages/GooglePage.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/stepdefinitions/DataTablesStepDefinition.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/pages/HotelRoomPage.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/utilities/ConfigReader.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/utilities/Driver.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/stepdefinitions/GoogleSearchStepDefinitions.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/stepdefinitions/HotelRoomStepDefinition.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/stepdefinitions/Hooks.java
+/Users/duygueren/IdeaProjects/mycocumberframework3/src/test/java/pages/DataTablePage.java
